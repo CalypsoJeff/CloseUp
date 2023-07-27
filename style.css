@@ -1,0 +1,25 @@
+.line{
+ height:5px;
+ /* color: red; */
+ background-color: red;
+}
+
+.line2{
+    height:5px;
+    background-color: red;
+    width:50px;
+    /* position: relative;
+    left: 250px; */
+    margin-left:50%;
+}
+.atag{
+    color:black;
+
+}
+.nav-link:hover{
+    color: red !important;
+    cursor: pointer;
+}
+.card-group{
+    border: none !important;
+}
