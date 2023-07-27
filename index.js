@@ -7,5 +7,5 @@ function selectLocation(){
 }
 
 function myfunction(){
-    alert("Search button clicked");
+    alert("Search button clicked"); 
 }
